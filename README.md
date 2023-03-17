@@ -1,8 +1,8 @@
 1 -- Weight_initialization implementation
 
-  zero_initialization
-  random_big_value_initialization
-  he initialization 
+i--   zero_initialization
+ii--  random_big_value_initialization
+iii --he initialization 
                           
 2 -- optimization methods implementation
 
